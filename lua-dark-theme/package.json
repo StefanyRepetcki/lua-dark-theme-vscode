@@ -1,0 +1,29 @@
+{
+  "name": "lua-dark-theme",
+  "displayName": "lua-dark-theme",
+  "description": "Tema dark estilo Lua :)",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "keywords": [
+    "dark",
+    "moon",
+    "sky",
+    "lua"
+  ],
+  "publisher": "stefanycr",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lua Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lua-dark-theme.json"
+      }
+    ]
+  }
+}
