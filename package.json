@@ -2,7 +2,7 @@
   "name": "lua-dark-theme",
   "displayName": "lua-dark-theme",
   "description": "Tema dark estilo Lua :)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.71.0"
   },
